@@ -1,0 +1,20 @@
+FastAPI introduction
+--------------------
+
+( LEARNING SOURCE [OFFICIAL DOCUMENTATION]: https://fastapi.tiangolo.com/ )
+
+* What is FastAPI ? *
+
+-- FastAPI is a python framework that is used to but api's.
+-- It is fast to code has high performance and also it is ready for production. 
+-- It supports asynchronous fucntionality and the framework is it self asynchronous.
+-- It uses python type hints which is the reason for the framework to be fast and requires less code.
+
+* Features of FastAPI ? *
+
+-- Fast
+-- Easy to code
+-- Lower or few bugs
+-- easy to learn and use
+-- robust
+
