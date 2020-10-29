@@ -18,3 +18,36 @@ FastAPI introduction
 -- easy to learn and use
 -- robust
 
+* Installation of fastAPI and ASGI server *
+
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/kCggyi_7pHg )
+
+-- Open command prompt and type 
+   pip install fastapi
+
+-- Install ASGI server (uvicorn)
+   pip install uvicorn
+
+   (or)
+-- Install Hypercorn 
+   pip install hypercorn
+
+* Running FastAPI *
+
+-- Create a virtual environment (optional).
+-- Install fastapi and ASGI server ( either uvicorn or hypercorn ).
+-- Create a python file main.py.
+-- import fastapi and run a get request.
+-- now open terminal and start the server using 
+   		uvicorn main:app --reload ( or ) hypercorn main:app --reload
+-- try different routes and see the data being delivered and retrived.
+-- we can pass the variable data to the routes as well.
+
+* Using Models *
+
+-- learned how to use pydantic BaseModel for post requests.
+
+
+* Using Interactive API docs by Swaggers UI *
+
+-- I learned by going to the http://localhost:8000/docs we can use the GUI testing tool by Swaggers UI. 
