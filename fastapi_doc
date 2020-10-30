@@ -29,6 +29,7 @@ FastAPI introduction
    pip install uvicorn
 
    (or)
+
 -- Install Hypercorn 
    pip install hypercorn
 
@@ -51,3 +52,9 @@ FastAPI introduction
 * Using Interactive API docs by Swaggers UI *
 
 -- I learned by going to the http://localhost:8000/docs we can use the GUI testing tool by Swaggers UI. 
+
+
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/6wEqbyNs?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+
+-- Using "async" functions in python.
+-- Sending data as a JSON using the async function.
