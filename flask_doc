@@ -1,0 +1,19 @@
+Flask introduction
+--------------------
+
+( LEARNING SOURCE [OFFICIAL DOCUMENTATION]: https://youtu.be/mqhxxeeTbu0?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX )
+  DATE: 31/10/2020
+
+* What is Flask ? *
+
+-- Flask is a micro web framework for building websites with python.
+-- As Flask is a micro web framework it doesnt come with a lot of functionalities like databases, user authentications and so.
+-- Flask is also quick and easy to start.
+
+
+* Installing Flask *
+
+` pip install flask `
+
+-- using dynamic paths with flask.
+-- redirecting users from one page to another page.
