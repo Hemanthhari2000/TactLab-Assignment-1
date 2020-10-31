@@ -2,6 +2,7 @@ FastAPI introduction
 --------------------
 
 ( LEARNING SOURCE [OFFICIAL DOCUMENTATION]: https://fastapi.tiangolo.com/ )
+  DATE: 29/10/2020
 
 * What is FastAPI ? *
 
@@ -55,15 +56,22 @@ FastAPI introduction
 
 
 ( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/6wEqbyNs?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
-
+  DATE: 30/10/2020
 -- Using "async" functions in python.
 -- Sending data as a JSON using the async function.
 
-( LEARNING SOURCE [YOUTUBE VIDEO] :
-https://youtu.be/uldt_GTvZFI?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/uldt_GTvZFI?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+  DATE: 30/10/2020
 
 -- using python typing or type hints.
 -- we can use either doc (swagger UI) or redoc but the main difference is that the swaggers UI is both read and execute type where are the redoc is Read-only so we CAN'T execute or test it.
 -- passing arguments in the url and then showing it as a JSON.
 -- while passing the arguments we can use python type hints to specify the data type of the argument.
 -- we can use query parameter as well and get the data.
+
+( LEARNING SOURCE [YOUTUBE VIDEO] :  )
+  DATE: 31/10/2020
+
+-- using pydantic BaseModel.
+-- we can send the BaseModel values in JSON to the server.
+-- sending multiple path and query parameter with the pydantic BaseModel.
