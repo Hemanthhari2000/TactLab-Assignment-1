@@ -69,9 +69,17 @@ FastAPI introduction
 -- while passing the arguments we can use python type hints to specify the data type of the argument.
 -- we can use query parameter as well and get the data.
 
-( LEARNING SOURCE [YOUTUBE VIDEO] :  )
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/ZZhBIyXbY4I?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
   DATE: 31/10/2020
 
 -- using pydantic BaseModel.
 -- we can send the BaseModel values in JSON to the server.
 -- sending multiple path and query parameter with the pydantic BaseModel.
+
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/0QpdG01CcLY?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+
+-- using response models
+-- we can filter out the data's that only the user is allowed to see.
+-- it basically gives the user the abstract data.
+-- using response_model_include and response_model_exclude to include and exclude fields.
+-- they are mainly used to give the abstract view rather than the whole data in JSON.
