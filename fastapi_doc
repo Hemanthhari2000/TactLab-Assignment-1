@@ -83,3 +83,11 @@ FastAPI introduction
 -- it basically gives the user the abstract data.
 -- using response_model_include and response_model_exclude to include and exclude fields.
 -- they are mainly used to give the abstract view rather than the whole data in JSON.
+
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/ZZhBIyXbY4I?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+  DATE: 01/11/2020
+
+  -- making a simple todo api with fastapi.
+  -- using the base CRUD operation locally with fastapi.
+  -- we can then use the SWAGGERS UI to test our api.
+
