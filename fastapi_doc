@@ -91,3 +91,10 @@ FastAPI introduction
   -- using the base CRUD operation locally with fastapi.
   -- we can then use the SWAGGERS UI to test our api.
 
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/rxS2_wOkbhE?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+  DATE: 01/11/2020
+
+  -- learning forms in fastapi
+  -- installing python-multipart.
+  -- We can use the forms instead of using the JSON type.
+  -- we need to import Form and then pass it in the argument as Form(...).
