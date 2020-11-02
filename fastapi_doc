@@ -118,4 +118,6 @@ FastAPI introduction
   DATE: 02/11/2020
 
   -- Integrating Tortise ORM with FastAPI part 2
-  -- 
+  -- ORM converts data between incompatible type systems using OOP.
+  -- This Creates a virtul object database that can be used from within the programming language.
+  -- Using with pydantic models and with the forms in python.
