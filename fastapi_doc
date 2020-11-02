@@ -98,3 +98,19 @@ FastAPI introduction
   -- installing python-multipart.
   -- We can use the forms instead of using the JSON type.
   -- we need to import Form and then pass it in the argument as Form(...).
+
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/JDoS-YSlH-o?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+  DATE: 02/11/2020
+
+  -- Understanding Basic ORM ( Object-Relational Mapping )
+  -- Using Tortise ORM with FastAPI integration.
+  -- Tortise ORM is an async ORM 
+  -- Installing tortise ORM in python 
+
+  * Installing Tortise ORM in Python*
+
+  ` pip install tortise-orm `
+
+  -- it is inspired from django.
+  -- we use tortise for easy model creating just like in django models which makes the workfow easy and fast.
+
