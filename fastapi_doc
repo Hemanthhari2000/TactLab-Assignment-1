@@ -114,3 +114,8 @@ FastAPI introduction
   -- it is inspired from django.
   -- we use tortise for easy model creating just like in django models which makes the workfow easy and fast.
 
+( LEARNING SOURCE [YOUTUBE VIDEO] : https://youtu.be/IK3X4R0KIQs?list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx )
+  DATE: 02/11/2020
+
+  -- Integrating Tortise ORM with FastAPI part 2
+  -- 
