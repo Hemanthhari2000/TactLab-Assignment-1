@@ -17,3 +17,21 @@ Flask introduction
 
 -- using dynamic paths with flask.
 -- redirecting users from one page to another page.
+
+
+( LEARNING SOURCE [OFFICIAL DOCUMENTATION]: https://youtu.be/xIgPMguqyws )
+  DATE: 05/11/2020
+
+-- using templates in flask.
+-- main use of templates is to reduce the stress of writing inline HTML in the code.
+-- we can make a template and then direct the flask application to the template and hence it will then render the page respectively.
+-- we can create an directory called templates in the main directory.
+-- finally, in the templates we can then add html files and write some html code in it.
+-- then we can use "render_template()" in flask to render the html page.
+
+* Dynamic Passing of Data between templates. *
+
+-- we can now use the data passing where we can pass the data between templates and flask application.
+-- we can use the "{{ VARIABLE }}" to pass the value from the flask python application to the html template.
+-- In Templates we can also use the TEMPLATING LANGUAGE where we can write python code in html file using "{% STATEMENT %}".
+-- 	we can also pass list or any other similar datatypes to the template and then render it out.
