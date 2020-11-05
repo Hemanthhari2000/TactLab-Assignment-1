@@ -35,3 +35,19 @@ Flask introduction
 -- we can use the "{{ VARIABLE }}" to pass the value from the flask python application to the html template.
 -- In Templates we can also use the TEMPLATING LANGUAGE where we can write python code in html file using "{% STATEMENT %}".
 -- 	we can also pass list or any other similar datatypes to the template and then render it out.
+
+
+( LEARNING SOURCE [OFFICIAL DOCUMENTATION]: https://youtu.be/4nzI4RKwb5I )
+  DATE: 05/11/2020
+
+  * Using Bootstrap *
+
+  -- we can add the bootstrap to the html files via CDN (Content Delivery Network).
+  -- we link it to the html file.
+  -- now we can use the predefined classes or bootstrap elements.
+  -- We can use bootstrap also to quickly design our web design.
+  -- we need to link it with the html file that we need.
+  -- usually, bootstrap is used in every page when a developer works on in so. it is recommended that we link the  bootstrap at a main html page with where it can be accisible to all other templates too.
+  -- using templates and adding bootstrap can be very quickly done and it consumes less time. comparatively.
+  
+  * Using Template Inheritance *
