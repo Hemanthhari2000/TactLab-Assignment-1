@@ -51,3 +51,11 @@ Flask introduction
   -- using templates and adding bootstrap can be very quickly done and it consumes less time. comparatively.
   
   * Using Template Inheritance *
+
+  -- We also have the Inheritance concept.
+  -- we can inherit a template from another template and the use that specific template accross our project.
+  -- it is required to add {% block content%} {% endblock %}, {% extends "html" %}
+  -- the "block contents" are used as a placeholder for some other template to run.
+  -- It is common in live websites that a single NAVBAR is used in multiple pages without any changes.
+  -- Hence we can make a template on the navbar and then "extend" it to other templates across the project.
+  -- This is called template inheritance.
